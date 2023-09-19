@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LimChiaLei</string>
+    <string name="text1">Please fill in your examination results</string>
+
+    <string name="bm">Bahasa Melayu</string>
+    <string name="bi">Bahasa Inggeris</string>
+    <string name="mm">Mathematics</string>
+
+    <string name="addm">Additional Mathematics</string>
+    <string name="sj">Sejarah</string>
+    <string name="bc">Bahasa Cina</string>
+    <string name="pm">Pendidikan Moral</string>
+
+
+    <string name="phy">Physics</string>
+    <string name="che">Chemistry</string>
+    <string name="bio">Biology</string>
+
+    <string name="text2">Contact general@tarc.edu.my via</string>
+    <string name="text3">Contact 03-4145 0123 via</string>
+
+
+</resources>
